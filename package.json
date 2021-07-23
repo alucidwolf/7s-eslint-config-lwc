@@ -1,9 +1,9 @@
 {
-  "name": "@alucidwolf/x7s-eslint-parser",
+  "name": "@alucidwolf/7s-eslint-config-lwc",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "description": "Opinionated ESLint configurations for LWC projects",
+  "description": "7S Opinionated ESLint configurations for LWC projects",
   "keywords": [
     "eslint",
     "eslint-config",
