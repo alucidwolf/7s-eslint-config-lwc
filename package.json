@@ -1,5 +1,5 @@
 {
-  "name": "@alucidwolf/7s-eslint-config-lwc",
+  "name": "7s-eslint-config-lwc",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
